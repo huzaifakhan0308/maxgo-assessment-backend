@@ -8,7 +8,8 @@
         "coveredAreaSQFT": 2800,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "75000000"
+        "price": "75000000",
+        "id": "1"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -19,7 +20,8 @@
         "coveredAreaSQFT": 3500,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "125000000"
+        "price": "125000000",
+        "id": "2"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -30,7 +32,8 @@
         "coveredAreaSQFT": 2250,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "38000000"
+        "price": "38000000",
+        "id": "3"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -41,7 +44,8 @@
         "coveredAreaSQFT": 2600,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "82000000"
+        "price": "82000000",
+        "id": "4"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -52,7 +56,8 @@
         "coveredAreaSQFT": 2800,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "72000000"
+        "price": "72000000",
+        "id": "5"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -63,7 +68,8 @@
         "coveredAreaSQFT": 2300,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "54000000"
+        "price": "54000000",
+        "id": "6"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -74,7 +80,8 @@
         "coveredAreaSQFT": 2800,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "85000000"
+        "price": "85000000",
+        "id": "7"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -85,7 +92,8 @@
         "coveredAreaSQFT": 4000,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "150000000"
+        "price": "150000000",
+        "id": "8"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -96,7 +104,8 @@
         "coveredAreaSQFT": 2250,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "42000000"
+        "price": "42000000",
+        "id": "9"
     },
     {
         "imageUrl": "https: //placehold.co/400",
@@ -107,7 +116,8 @@
         "coveredAreaSQFT": 2350,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "65000000"
+        "price": "65000000",
+        "id": "10"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -118,7 +128,8 @@
         "coveredAreaSQFT": 2700,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "78000000"
+        "price": "78000000",
+        "id": "11"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -129,7 +140,8 @@
         "coveredAreaSQFT": 2400,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "55000000"
+        "price": "55000000",
+        "id": "12"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -140,7 +152,8 @@
         "coveredAreaSQFT": 3500,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "95000000"
+        "price": "95000000",
+        "id": "13"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -151,7 +164,8 @@
         "coveredAreaSQFT": 2600,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "85000000"
+        "price": "85000000",
+        "id": "14"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -162,7 +176,8 @@
         "coveredAreaSQFT": 1500,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "35000000"
+        "price": "35000000",
+        "id": "15"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -173,7 +188,8 @@
         "coveredAreaSQFT": 4200,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "115000000"
+        "price": "115000000",
+        "id": "16"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -184,7 +200,8 @@
         "coveredAreaSQFT": 2900,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "82000000"
+        "price": "82000000",
+        "id": "17"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -195,7 +212,8 @@
         "coveredAreaSQFT": 2350,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "59000000"
+        "price": "59000000",
+        "id": "18"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -206,7 +224,8 @@
         "coveredAreaSQFT": 2800,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "88000000"
+        "price": "88000000",
+        "id": "19"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -217,7 +236,8 @@
         "coveredAreaSQFT": 3200,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "105000000"
+        "price": "105000000",
+        "id": "20"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -228,7 +248,8 @@
         "coveredAreaSQFT": 2600,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "79000000"
+        "price": "79000000",
+        "id": "21"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -239,7 +260,8 @@
         "coveredAreaSQFT": 2300,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "56000000"
+        "price": "56000000",
+        "id": "22"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -250,7 +272,8 @@
         "coveredAreaSQFT": 2900,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "84000000"
+        "price": "84000000",
+        "id": "23"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -261,7 +284,8 @@
         "coveredAreaSQFT": 3800,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "112000000"
+        "price": "112000000",
+        "id": "24"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -272,7 +296,8 @@
         "coveredAreaSQFT": 2700,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "81000000"
+        "price": "81000000",
+        "id": "25"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -283,7 +308,8 @@
         "coveredAreaSQFT": 2200,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "51000000"
+        "price": "51000000",
+        "id": "26"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -294,7 +320,8 @@
         "coveredAreaSQFT": 3000,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "87000000"
+        "price": "87000000",
+        "id": "27"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -305,7 +332,8 @@
         "coveredAreaSQFT": 2400,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "58000000"
+        "price": "58000000",
+        "id": "28"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -316,7 +344,8 @@
         "coveredAreaSQFT": 2800,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "83000000"
+        "price": "83000000",
+        "id": "29"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -327,7 +356,8 @@
         "coveredAreaSQFT": 1700,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "43000000"
+        "price": "43000000",
+        "id": "30"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -338,7 +368,8 @@
         "coveredAreaSQFT": 3200,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "92000000"
+        "price": "92000000",
+        "id": "31"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -349,7 +380,8 @@
         "coveredAreaSQFT": 2300,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "56000000"
+        "price": "56000000",
+        "id": "32"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -360,7 +392,8 @@
         "coveredAreaSQFT": 2900,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "86000000"
+        "price": "86000000",
+        "id": "33"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -371,7 +404,8 @@
         "coveredAreaSQFT": 3400,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "102000000"
+        "price": "102000000",
+        "id": "34"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -382,7 +416,8 @@
         "coveredAreaSQFT": 2700,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "82000000"
+        "price": "82000000",
+        "id": "35"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -393,7 +428,8 @@
         "coveredAreaSQFT": 2200,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "52000000"
+        "price": "52000000",
+        "id": "36"
     },
     {
         "imageUrl": "https: //placehold.co/400",
@@ -404,7 +440,8 @@
         "coveredAreaSQFT": 2350,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "65000000"
+        "price": "65000000",
+        "id": "37"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -415,7 +452,8 @@
         "coveredAreaSQFT": 1800,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "41000000"
+        "price": "41000000",
+        "id": "38"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -426,7 +464,8 @@
         "coveredAreaSQFT": 3900,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "118000000"
+        "price": "118000000",
+        "id": "39"
     },
     {
         "imageUrl": "https://placehold.co/400",
@@ -437,6 +476,7 @@
         "coveredAreaSQFT": 3200,
         "propertyType": "house",
         "isCommercial": false,
-        "price": "93000000"
+        "price": "93000000",
+        "id": "40"
     }
 ]
